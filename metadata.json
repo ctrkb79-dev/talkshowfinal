@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ট্রান্সক্রাইব - Professional Audio to Text",
+  "description": "একটি অত্যাধুনিক অডিও টু টেক্সট ট্রান্সক্রিপশন অ্যাপ যা জেমিনি এআই ব্যবহার করে দ্রুত এবং নির্ভুলভাবে অডিওকে বাংলায় রূপান্তর করে।",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
